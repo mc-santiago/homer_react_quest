@@ -1,7 +1,8 @@
 import React from "react";
 import Quote from "./Quote";
 
-// src/Quotes.js
+
+
 const quotes = [
   {
     quote:
